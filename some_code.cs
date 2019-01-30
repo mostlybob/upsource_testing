@@ -4,9 +4,9 @@ namespace Foo
 {
     public class Bar
     {
-	public static void Main()
-	{
+        public static void Main()
+        {
             Console.WriteLine("Hi there.");
-	}
+        }
     }
 }
